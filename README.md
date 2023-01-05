@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Ruby on Rails, Python and JavaScript
 
 ✨ _special_projects ✨
-https://github.com/Raudy2/Roles
-https://github.com/Raudy2/Responsive-Panel-Admin
+- https://github.com/Raudy2/Roles
+- https://github.com/Raudy2/Responsive-Panel-Admin
 <!--
 **Raudy2/Raudy2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
